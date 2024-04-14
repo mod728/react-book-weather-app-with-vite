@@ -1,6 +1,6 @@
 # ウェザーアプリ（React with Vite）
 
-三好アキ著『はじめてつくるReactアプリ（Vite版）』コード
+三好アキ著『はじめてつくるReactアプリ』コード
 
 React + Vite
 
